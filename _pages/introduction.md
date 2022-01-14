@@ -7,7 +7,7 @@ permalink : /introduction/
 
 ## What is Calamity Sanctuary?
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/gcNyw1U" data-context="false" ><a href="//imgur.com/a/gcNyw1U">Gameplay example</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<video autoplay loop src="../assets/gameplay1.webm"></video>
 
 Calamity Sanctuary is a roguelite action rpg with deckbuilding elements. Build your deck, acquire powerful daemons and fight your way in realtime for a chance get to safety before the propheted Calamity strikes.
 
