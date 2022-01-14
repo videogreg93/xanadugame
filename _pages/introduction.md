@@ -7,7 +7,7 @@ permalink : /introduction/
 
 ## What is Calamity Sanctuary?
 
-<video autoplay loop src="../assets/gameplay1.webm"></video>
+<video autoplay loop src="../assets/gameplay.webm"></video>
 
 Calamity Sanctuary is a roguelite action rpg with deckbuilding elements. Build your deck, acquire powerful daemons and fight your way in realtime for a chance get to safety before the propheted Calamity strikes.
 
@@ -17,7 +17,7 @@ Unlike most deckbuilders, battles in Calamity Sanctuary are in realtime. You'll 
 
 ### Acquire Powerful Daemons
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xInzac7" data-context="false" ><a href="//imgur.com/a/xInzac7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<video autoplay loop src="../assets/daemons.webm"></video>
 
 Daemons grant you various passive abilities, but simply acquiring them is not enough. You'll have to find them a place in your Pacifing Grid if you want to reap the benefits they provide
 
