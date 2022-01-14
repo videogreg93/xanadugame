@@ -31,6 +31,8 @@ The player can choose between different classes, which dictate which spells and 
 
 ### Scrap Engineer
 
+![idle](../assets/idle.gif)
+
 The scrap engineer gets by with the help of his ingenuity and quick thinking. While never wielding the most fancy tools, he can make do with just about anything, turning the scrap around him into useful weapons. Calculators are transformed into grenades while scrap metal can be used for armor.
 
 The Scrap Engineer is the default "basic" class, providing the simplest tools in the game enabling players to learn the ropes of Calamity Sanctuary. Certain spells, as well as simply dealing damage to enemies, will enable the Scrap Engineer to accumulate **scrap**, a currency which can be used to power up certain spells, as well as his trusty **scrap gun**.
