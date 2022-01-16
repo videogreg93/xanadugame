@@ -23,6 +23,8 @@ Daemons grant you various passive abilities, but simply acquiring them is not en
 
 ### Visit exotic locations
 
+<video autoplay loop src="../assets/map.webm"></video>
+
 The path towards the Calamity Sanctuary will take you through various biomes, each with their own set of challenges. Choose which path to take depending on your current strengths and weaknesses. 
 
 ## Characters Classes
